@@ -1,1 +1,1 @@
-# leet_code_solutions
+# This repo contains python code for leet code problems and solution
